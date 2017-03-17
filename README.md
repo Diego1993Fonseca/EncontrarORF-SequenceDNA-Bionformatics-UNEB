@@ -5,4 +5,4 @@ O projeto possui 2 classes:  Sequencia e  ORFS
 
 IDE utilizada: NETBEANS
 
-O sistema ler um Arquivo (FASTA) e Devolve uma planilha em excel com todas as OFS encontradas.
+O sistema ler um Arquivo (FASTA) e devolve uma planilha em excel com todas as OFS encontradas.
